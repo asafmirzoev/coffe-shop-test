@@ -1,0 +1,2 @@
+class DbObjectDoesNotExist(Exception):
+    pass
